@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative;
+    font-family: 'Lora', serif;
+}
+
+.container .card{
+    overflow: hidden;
+    box-shadow: 0px 0px 5px 5px #aaaaaa33;
+    width: 100%;
+    height: 485px;
+}
+
+.container .card-img-top{
+    width: 100%;
+    height: 300px;
+    background-color: #aaaaaa;
+}
+
+.container p{
+    margin-top: -10px;
+    font-size: 15px
+}
+
+.container p span{
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.container h6{
+    padding-bottom: 7px;
+}
